@@ -1,5 +1,7 @@
 # d3-interpolate
 
+[![Build Status](https://dev.azure.com/d3/d3/_apis/build/status/d3.d3-interpolate)](https://dev.azure.com/d3/d3/_build/definition?definitionId=19)
+
 This module provides a variety of interpolation methods for blending between two values. Values may be numbers, colors, strings, arrays, or even deeply-nested objects. For example:
 
 ```js
